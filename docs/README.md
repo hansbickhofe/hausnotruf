@@ -4,7 +4,7 @@ Auf- und Ausbau eines universellen Hausnotrufsystems.
 
 ### Die Idee
 * [Welche Funktionen sind gewünscht?](functions/needed_de.md)
-* [Welche Funktionen könnten zukünftig benötig werden?](functions/nicetohave_de.md)
+* [Welche Funktionen könnten zukünftig benötigt werden?](functions/nicetohave_de.md)
 
 ### Hardware - Sender
 * [Flic Button](hardware/flic_de.md)
