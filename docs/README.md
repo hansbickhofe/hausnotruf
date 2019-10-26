@@ -1,6 +1,6 @@
 # hausnotruf
 
-(Diese Doku und auch das Projekt ist in Arbeit, leider immer noch!)
+(Diese Doku und auch das Projekt ist in Arbeit - Leider immer noch!)
 
 Auf- und Ausbau eines universellen Hausnotrufsystems.
 
